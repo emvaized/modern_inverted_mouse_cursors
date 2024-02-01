@@ -7,6 +7,8 @@ Design is mostly inspired by standard white mouse cursor in Windows 10/11, but f
 <img src="./screenshots/1.png">
 <img src="./screenshots/2.png">
 
+---
+
 ### How to install: 
 1. Click green button "Code" > "Download ZIP"
 2. Extract downloaded .zip archive to any folder
