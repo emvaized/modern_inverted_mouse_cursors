@@ -1,4 +1,4 @@
-# Modern Inverted Mouse Cursor for Windows
+# Modern Inverted Mouse Cursors for Windows
 
 This project aims to recreate standard inverted mouse cursors with a more modern design. Original inverted mouse cursors, available in Windows out the box, hasn't been updated for decades and look quite outdated as for now. This project intends to fix it by providing overhauled inverted mouse cursors. 
 
