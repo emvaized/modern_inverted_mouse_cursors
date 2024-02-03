@@ -4,7 +4,7 @@ This project aims to recreate standard inverted mouse cursors with a more modern
 
 Design is mostly inspired by standard white mouse cursor in Windows 10/11, but few design changes were made to improve visibility specifically for inverted mouse cursors. 
 
-<img src="./screenshots/all_cursors_new.png">
+<img src="./screenshots/all_cursors.png">
 
 ---
 
