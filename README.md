@@ -13,3 +13,10 @@ Design is mostly inspired by standard white mouse cursor in Windows 10/11, but f
 3. Open Control Panel and navigate to "Mouse Properties" > "Pointers"
 4. Select the style you installed and click "Apply"
 5. (optional) Double click any cursor type and select any other desired cursor from the extracted folder
+
+---
+
+### Support
+If you really enjoy this product, consider supporting it's further development with a small donation! 
+
+<a href="https://ko-fi.com/emvaized"><img src="https://user-images.githubusercontent.com/7586345/125668092-55af2a45-aa7d-4795-93ed-de0a9a2828c5.png" alt="Support on Ko-fi" width="15%" height="20%"></a>    <a href="https://www.paypal.com/donate/?business=2KDNGXNUVZW7N&no_recurring=0&currency_code=USD"><img src="https://www.paypalobjects.com/en_US/DK/i/btn/btn_donateCC_LG.gif" height="35"/></a> 
