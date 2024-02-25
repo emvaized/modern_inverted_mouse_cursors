@@ -5,6 +5,7 @@ This project aims to recreate standard inverted mouse cursors with a more modern
 Design is mostly inspired by standard white mouse cursor in Windows 10/11, but few design changes were made to improve visibility specifically for inverted mouse cursors.
 
 All cursors invert colors behind them, e.g. whey become white on dark background, and black on light background: 
+
 <img src="./screenshots/arrow_no_tail.png">
 
 ---
