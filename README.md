@@ -20,6 +20,13 @@ All cursors invert colors behind them, e.g. they become white on dark background
 
 ---
 
+### Note about 1-bit version
+While using this cursor pack I noticed that in some apps (Microsoft Edge, Krita, CS2) in some rare ocasions cursor suddenly stops inverting colors behind it and becomes all-white, with even black borders dissapearing. Maybe it's some videodrivers issue specific to my computer. But I found out that it doesn't happen if cursor is set to 1-bit mode (black and white) — cursor will still flicker in such situations, but it keeps showing black borders and remains clearly visible. 
+
+Therefore I created <a href="./cursors/1-bit versions/">1-bit versions</a> for most of cursors in this pack — if you experience similar problems, feel free to give them a try. As an upside, their size is hugely smaller than regular version (2.19kbs per cursor compared to 22.9kbs), while they look and feel pretty much the same. Pretty cool, right? 
+
+---
+
 ### Support
 If you really enjoy this product, consider supporting it's further development with a small donation! 
 
