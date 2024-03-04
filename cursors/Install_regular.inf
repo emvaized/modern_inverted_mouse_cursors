@@ -28,7 +28,7 @@ horizontal.cur
 diagonal_2.cur
 diagonal_1.cur
 move.cur
-link_v2.cur
+link.cur
 cross.cur
 pen.cur
 special.cur
@@ -44,10 +44,10 @@ text          = "beam.cur"
 unavailiable  = "unavailable_v2.cur"
 vert          = "vertical.cur"
 horz          = "horizontal.cur"
-dgn1          = "diagonal_2.cur"
-dgn2          = "diagonal_1.cur"
+dgn1          = "diagonal_1.cur"
+dgn2          = "diagonal_2.cur"
 move          = "move.cur"
-link          = "link_v2.cur"
+link          = "link.cur"
 cross         = "cross.cur"
 hand          = "pen.cur"
 alternate     = "special.cur"

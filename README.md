@@ -20,10 +20,12 @@ All cursors invert colors behind them, e.g. they become white on dark background
 
 ---
 
-### About 1-bit cursors
-While using this cursor pack I noticed that in some apps (Microsoft Edge, Krita, CS2) in some rare ocasions cursor suddenly stops inverting colors behind it and becomes all-white, with even black borders dissapearing. Maybe it's some videodrivers issue specific to my computer. But I found out that it doesn't happen if cursor is set to 1-bit mode (black and white) — cursor will still flicker in such situations, but it keeps showing black borders and remains clearly visible. 
+### Why all cursors are 1-bit?
+Color inversion feature is not supported on regular 32-bit cursors. This also leads to semitransparency not available — all pixels in inverted cursors can only be fully opaque, fully transparent, or inverted. That's why you may notice some chopiness on curves in this cursor pack.
 
-Therefore I created <a href="./cursors/1-bit versions/">1-bit versions</a> for most of cursors in this pack — if you experience similar problems, feel free to give them a try. As an upside, their size is hugely smaller than regular version (2.19kbs per cursor compared to 22.9kbs), while they look and feel pretty much the same. Pretty cool, right? Maybe I'll make them default in future.
+At first I made these cursors 24-bit, but I noticed that in some apps (Microsoft Edge, Krita, CS2) in some rare ocasions cursor suddenly stops inverting colors behind it and becomes all-white, with even black borders dissapearing. Maybe it's some videodrivers issue specific to my computer. But I found out that it doesn't happen if cursor is set to 1-bit mode (black and white) — cursor will still flicker in such situations, but it keeps showing black borders and remains clearly visible. 
+
+Therefore I converted most of cursors in this pack to 1-bit color depth. As an upside, their size is hugely smaller than regular version (2.19kbs per cursor compared to 22.9kbs), while they look and feel pretty much the same. Pretty cool, right? Also, default inverted cursors in Windows are also 1-bit, so it's probably the right way to do it. 
 
 ---
 
