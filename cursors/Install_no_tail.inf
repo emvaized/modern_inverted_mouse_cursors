@@ -21,7 +21,7 @@ arrow_no_tail.cur
 help_no_tail.cur
 working_no_tail.ani
 busy.ani
-beam.cur
+beam_v2.cur
 unavailable_v2.cur
 vertical.cur
 horizontal.cur
@@ -40,7 +40,7 @@ pointer       = "arrow_no_tail.cur"
 help          = "help_no_tail.cur"
 work          = "working_no_tail.ani"
 busy          = "busy.ani"
-text          = "beam.cur"
+text          = "beam_v2.cur"
 unavailiable  = "unavailable_v2.cur"
 vert          = "vertical.cur"
 horz          = "horizontal.cur"
