@@ -27,6 +27,6 @@ Therefore I converted most of cursors in this pack to 1-bit color depth. As an u
 
 
 ## Support
-If you really enjoy this project, please consider supporting its further development by making a small donation using one of the services below! 
+If you really enjoy this project, please consider supporting its further development by making a small donation! 
 
 <a href="https://ko-fi.com/emvaized"><img src="https://cdn.prod.website-files.com/5c14e387dab576fe667689cf/64f1a9ddd0246590df69ea0b_kofi_long_button_red%25402x-p-800.png" alt="Support on Ko-fi" height="40"></a> &nbsp;&nbsp; <a href="https://emvaized.github.io/donate/bitcoin/"><img src="https://github.com/emvaized/emvaized.github.io/blob/main/donate/bitcoin/assets/bitcoin-donate-button.png?raw=true" alt="Donate Bitcoin" height="40" width="90"/></a>
