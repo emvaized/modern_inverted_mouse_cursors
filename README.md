@@ -1,4 +1,4 @@
-<img src="./screenshots/all_cursors_with_title.png" />
+<img src="./screenshots/title.png" />
 
 ![GitHub Downloads (specific asset, all releases)](https://img.shields.io/github/downloads/emvaized/modern_inverted_mouse_cursors/total?label=total+downloads)
 [![GitHub Release](https://img.shields.io/github/v/release/emvaized/modern_inverted_mouse_cursors?&label=latest+release)](https://github.com/emvaized/modern_inverted_mouse_cursors/releases)
@@ -7,10 +7,9 @@ This project aims to recreate standard inverted mouse cursors with a more modern
 
 Design is mostly inspired by standard white mouse cursor in Windows 10/11, but few design changes were made to improve visibility specifically for inverted mouse cursors.
 
-All cursors invert colors behind them, e.g. they become white on dark background, and black on light background: 
+All cursors invert colors behind them, e.g. they become white on dark background, and black on light background: &nbsp;<img src="./screenshots/illustration_of_inversion.gif" align="top"/>
 
-<img src="./screenshots/illustration_of_inversion.gif">
-
+<img src="./screenshots/all_cursors_no_title.png" />
 
 ## How to install: 
 1. Click green button "Code" > "Download ZIP"
