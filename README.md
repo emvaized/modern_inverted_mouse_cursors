@@ -1,4 +1,4 @@
-<img src="./screenshots/title.png" />
+<img alt="Modern Inverted Mouse Cursors for Windows" src="./screenshots/title.png" />
 
 ![GitHub Downloads (specific asset, all releases)](https://img.shields.io/github/downloads/emvaized/modern_inverted_mouse_cursors/total?label=total+downloads)
 [![GitHub Release](https://img.shields.io/github/v/release/emvaized/modern_inverted_mouse_cursors?&label=latest+release)](https://github.com/emvaized/modern_inverted_mouse_cursors/releases)
