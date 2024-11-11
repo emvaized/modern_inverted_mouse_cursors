@@ -10,7 +10,7 @@
 
 This project aims to recreate standard inverted mouse cursors with a more modern design. This cursor inverts the colors behind it, and this way it always stands out no matter the background. Although this feature was initially designed for people with vision problems, regular people could greatly benefit from it as well. Original inverted mouse cursors, available in Windows out the box, hasn't been updated for decades and look quite outdated as for now. This project intends to fix it by providing overhauled inverted mouse cursors. 
 
-Design is mostly inspired by standard white mouse cursor in Windows 10/11, but few design changes were made to improve visibility specifically for inverted mouse cursors.
+Design is mostly inspired by standard Aero mouse cursor in Windows 10/11, but few design changes were made to improve visibility specifically for inverted cursors.
 
 All cursors invert colors behind them, e.g. they become white on dark background, and black on light background: &nbsp;
 
@@ -32,11 +32,11 @@ All cursors were created using [Realworld Cursor Editor](http://www.rw-designer.
 You can also suggest your changes by opening a new [pull request](https://github.com/emvaized/modern_inverted_mouse_cursors/compare) here on Github, or request them by opening a new [issue ticket](https://github.com/emvaized/modern_inverted_mouse_cursors/issues/new).
 
 ## Why all cursors are 1-bit?
-Color inversion feature is not supported on regular 32-bit cursors. This also leads to semitransparency not available — all pixels in inverted cursors can only be fully opaque, fully transparent, or inverted. That's why you may notice some chopiness on curves in this cursor pack.
+Color inversion feature is not supported on regular 32-bit cursors. This also leads to semitransparency not available — all pixels in inverted cursors can only be either fully opaque, transparent or inverted. That's why you may notice some chopiness on curves in this cursor pack (so called pixel ladders).
 
-At first I made these cursors 24-bit, but I noticed that in some apps (Microsoft Edge, Krita, CS2) in some rare ocasions cursor suddenly stops inverting colors behind it and becomes all-white, with even black borders dissapearing. Maybe it's some videodrivers issue specific to my computer. But I found out that it doesn't happen if cursor is set to 1-bit mode (black and white) — cursor will still flicker in such situations, but it keeps showing black borders and remains clearly visible. 
+At first I made these cursors 24-bit, but I noticed that in some apps (Microsoft Edge, Krita, CS2) in some occasions cursor suddenly stops inverting colors behind it and becomes all-white, with even black borders dissapearing. Maybe it's some videodrivers issue specific to my computer. But I found out that it doesn't happen if cursor is set to 1-bit mode (black and white) — cursor will still flicker in such situations, but it keeps showing black borders and remains clearly visible. 
 
-Therefore I converted most of cursors in this pack to 1-bit color depth. As an upside, their size is hugely smaller than regular version (2.19kbs per cursor compared to 22.9kbs), while they look and feel pretty much the same. Pretty cool, right? Also, default inverted cursors in Windows are also 1-bit, so it's probably the right way to do it. 
+Therefore I converted most of cursors in this pack to 1-bit color depth. As an upside, their size is greatly smaller than regular version (2.19kbs per cursor compared to 22.9kbs), while they look and feel pretty much the same. Also, default inverted cursors in Windows are also 1-bit, so it's probably the right way to do it. 
 
 
 ## Support
