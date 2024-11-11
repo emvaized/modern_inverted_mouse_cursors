@@ -27,6 +27,8 @@ All cursors invert colors behind them, e.g. they become white on dark background
 4. Select the style you installed and click "Apply"
 5. (optional) Double click any cursor type and select any other desired cursor from the extracted folder, if you want alternative version
 
+## How to modify cursors? 
+All cursors were created using [Realworld Cursor Editor](http://www.rw-designer.com/cursor-maker) — feel free to use this free tool to modify them for your needs! You can also suggest your changes by opening a [new pull request](https://github.com/emvaized/modern_inverted_mouse_cursors/compare) here on Github.
 
 ## Why all cursors are 1-bit?
 Color inversion feature is not supported on regular 32-bit cursors. This also leads to semitransparency not available — all pixels in inverted cursors can only be fully opaque, fully transparent, or inverted. That's why you may notice some chopiness on curves in this cursor pack.
