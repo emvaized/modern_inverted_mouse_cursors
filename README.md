@@ -27,19 +27,17 @@ All cursors invert colors behind them, e.g. they become white on dark background
 4. Select the style you installed and click "Apply"
 5. (optional) Double click any cursor type and select any other desired cursor from the extracted folder, if you want alternative version
 
+## Support ❤️
+If you really enjoy this project, please consider supporting its further development by making a small donation using one of the ways below! 
+
+<a href="https://ko-fi.com/emvaized"><img src="https://storage.ko-fi.com/cdn/kofi1.png?v=6" alt="Support on Ko-fi" height="40"></a> &nbsp; <a href="https://liberapay.com/emvaized/donate"><img alt="Donate using Liberapay" src="https://liberapay.com/assets/widgets/donate.svg" height="40"></a> &nbsp; <a href="https://emvaized.github.io/donate/bitcoin/"><img src="https://github.com/emvaized/emvaized.github.io/blob/main/donate/bitcoin/assets/bitcoin-donate-button.png?raw=true" alt="Donate Bitcoin" height="40" /></a>
+
 ## How to modify cursors? 
-All cursors were created using [Realworld Cursor Editor](http://www.rw-designer.com/cursor-maker) — feel free to use this free tool to modify them for your needs! 
-You can also suggest your changes by opening a new [pull request](https://github.com/emvaized/modern_inverted_mouse_cursors/compare) here on Github, or request them by opening a new [issue ticket](https://github.com/emvaized/modern_inverted_mouse_cursors/issues/new).
+All cursors were created using [Realworld Cursor Editor](http://www.rw-designer.com/cursor-maker) — you can use this free tool to modify them for your needs! In order to draw an inverted cursor, you have to set your brush to use fully transparent white color (00FFFFFF), along with cursor's color depth set to anything other than default 32-bit.
 
 ## Why all cursors are 1-bit?
-Color inversion feature is not supported on regular 32-bit cursors. This also leads to semitransparency not available — all pixels in inverted cursors can only be either fully opaque, transparent or inverted. That's why you may notice some chopiness on curves in this cursor pack (so called pixel ladders).
+Color inversion feature is not supported on regular 32-bit cursors. This also leads to semitransparency not being available — all pixels in inverted cursors can only be either fully opaque, transparent or inverted. That's why you may notice some chopiness on curves in this cursor pack (so called pixel ladders).
 
 At first I made these cursors 24-bit, but I noticed that in some apps (Microsoft Edge, Krita, CS2) in some occasions cursor suddenly stops inverting colors behind it and becomes all-white, with even black borders dissapearing. Maybe it's some videodrivers issue specific to my computer. But I found out that it doesn't happen if cursor is set to 1-bit mode (black and white) — cursor will still flicker in such situations, but it keeps showing black borders and remains clearly visible. 
 
 Therefore I converted most of cursors in this pack to 1-bit color depth. As an upside, their size is greatly smaller than regular version (2.19kbs per cursor compared to 22.9kbs), while they look and feel pretty much the same. Also, default inverted cursors in Windows are also 1-bit, so it's probably the right way to do it. 
-
-
-## Support
-If you really enjoy this project, please consider supporting its further development by making a small donation! 
-
-<a href="https://ko-fi.com/emvaized"><img src="https://cdn.prod.website-files.com/5c14e387dab576fe667689cf/64f1a9ddd0246590df69ea0b_kofi_long_button_red%25402x-p-800.png" alt="Support on Ko-fi" height="40"></a> &nbsp; <a href="https://liberapay.com/emvaized/donate"><img alt="Donate using Liberapay" src="https://liberapay.com/assets/widgets/donate.svg" height="40"></a> &nbsp; <a href="https://emvaized.github.io/donate/bitcoin/"><img src="https://github.com/emvaized/emvaized.github.io/blob/main/donate/bitcoin/assets/bitcoin-donate-button.png?raw=true" alt="Donate Bitcoin" height="40" /></a>
