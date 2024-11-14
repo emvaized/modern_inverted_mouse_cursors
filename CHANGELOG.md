@@ -1,18 +1,14 @@
 ### 3.6.0
 
 Added new "tail detached" cursors (design proposed by **_aicraglednay**): 
-- `arrow_tail_detached`  
-<img src="./screenshots/cursors_single/arrow_tail_detached.png">
-- `working_tail_detached`  
-<img src="./screenshots/cursors_single/working_tail_detached.gif">
-- `working_tail_detached_v2`  
-<img src="./screenshots/cursors_single/working_tail_detached_v2.gif">
+- `arrow_tail_detached` <br> <img src="./screenshots/cursors_single/arrow_tail_detached.png">
+- `working_tail_detached` <br> <img src="./screenshots/cursors_single/working_tail_detached.gif">
+- `working_tail_detached_v2` <br> <img src="./screenshots/cursors_single/working_tail_detached_v2.gif">
 
 Added another new cursor:  
-- `unavailable_v3`  
-<img src="./screenshots/cursors_single/unavailable_v3.png">
+- `unavailable_v3` <br> <img src="./screenshots/cursors_single/unavailable_v3.png">
 
-New table with all available cursors is available in the [Showcase](https://github.com/emvaized/modern_inverted_mouse_cursors?tab=readme-ov-file#showcase)
+New table with all available cursors is available in the [Showcase](https://github.com/emvaized/modern_inverted_mouse_cursors?tab=readme-ov-file#showcase)!
 
 ### 3.5
 - Added new fancy loading cursors (`busy` and 2 `working` variants) — only 32px versions for now. Original loading cursors (with clock) moved to the "old" folder
