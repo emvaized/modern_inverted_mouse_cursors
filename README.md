@@ -15,10 +15,10 @@ All cursors invert colors behind them, e.g. they become white on dark background
 <img src="./screenshots/illustration_of_inversion.gif" align="top"/>
 
 ## Showcase
-<img src="./screenshots/all_cursors_no_title.png" />
+<!-- <img src="./screenshots/all_cursors_no_title.png" /> -->
 
-<details>
-<summary>List of all cursors</summary>
+<!-- <details> -->
+<!-- <summary>List of all cursors</summary> -->
 
 | Name                       | Image                                                           | Name                       | Image                                                           |
 |----------------------------|-----------------------------------------------------------------|----------------------------|-----------------------------------------------------------------|
@@ -37,9 +37,7 @@ All cursors invert colors behind them, e.g. they become white on dark background
 | working_no_tail            | <img src="screenshots/cursors_single/working_no_tail.gif" height=50 /> | working_tail_detached_v2   | <img src="screenshots/cursors_single/working_tail_detached_v2.gif" height=50 /> |
 | working_tail_detached      | <img src="screenshots/cursors_single/working_tail_detached.gif" height=50 /> | working                    | <img src="screenshots/cursors_single/working.gif" height=50 />      |
 
-
-</details>
-
+<!-- </details> -->
 
 ## How to install: 
 1. Download the [latest release](https://github.com/emvaized/modern_inverted_mouse_cursors/releases)
