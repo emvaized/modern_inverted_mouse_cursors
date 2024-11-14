@@ -42,7 +42,7 @@ All cursors invert colors behind them, e.g. they become white on dark background
 
 
 ## How to install: 
-1. Click green button "Code" > "Download ZIP"
+1. Download the [latest release](https://github.com/emvaized/modern_inverted_mouse_cursors/releases)
 2. Extract downloaded .zip archive to any folder
 3. Locate `cursors/Install.inf` file for "regular" or "no tail" style, right click on that `.inf` file and select "Install"
 3. Open Control Panel and navigate to "Mouse Properties" > "Pointers"
