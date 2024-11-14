@@ -39,6 +39,11 @@ All cursors invert colors behind them, e.g. they become white on dark background
 
 <!-- </details> -->
 
+## Support ❤️
+If you really enjoy this project, please consider supporting its further development by making a small donation using one of the ways below! 
+
+<a href="https://ko-fi.com/emvaized"><img src="https://storage.ko-fi.com/cdn/kofi1.png?v=6" alt="Support on Ko-fi" height="40"></a> &nbsp; <a href="https://liberapay.com/emvaized/donate"><img alt="Donate using Liberapay" src="https://liberapay.com/assets/widgets/donate.svg" height="40"></a> &nbsp; <a href="https://emvaized.github.io/donate/bitcoin/"><img src="https://github.com/emvaized/emvaized.github.io/blob/main/donate/bitcoin/assets/bitcoin-donate-button.png?raw=true" alt="Donate Bitcoin" height="40" /></a>
+
 ## How to install: 
 1. Download the [latest release](https://github.com/emvaized/modern_inverted_mouse_cursors/releases)
 2. Extract downloaded .zip archive to any folder
@@ -47,15 +52,10 @@ All cursors invert colors behind them, e.g. they become white on dark background
 4. Select the style you installed and click "Apply"
 5. (optional) Double click any cursor type and select any other desired cursor from the extracted folder, if you want alternative version
 
-## Support ❤️
-If you really enjoy this project, please consider supporting its further development by making a small donation using one of the ways below! 
-
-<a href="https://ko-fi.com/emvaized"><img src="https://storage.ko-fi.com/cdn/kofi1.png?v=6" alt="Support on Ko-fi" height="40"></a> &nbsp; <a href="https://liberapay.com/emvaized/donate"><img alt="Donate using Liberapay" src="https://liberapay.com/assets/widgets/donate.svg" height="40"></a> &nbsp; <a href="https://emvaized.github.io/donate/bitcoin/"><img src="https://github.com/emvaized/emvaized.github.io/blob/main/donate/bitcoin/assets/bitcoin-donate-button.png?raw=true" alt="Donate Bitcoin" height="40" /></a>
-
 ## How to modify cursors? 
 All cursors were created using [Realworld Cursor Editor](http://www.rw-designer.com/cursor-maker) — you can use this free tool to modify them for your needs! In order to draw an inverted cursor, you have to set your brush to use fully transparent white color (`00FFFFFF`), along with cursor's color depth set to anything other than the default 32-bit color depth.
 
-## About the color depth (1-bit)
+## About the cursors color depth (1-bit)
 Color inversion feature is not supported on regular 32-bit cursors. This also leads to semitransparency not being available — all pixels in inverted cursors can only be either fully opaque, transparent or inverted. That's why you may notice some chopiness on curves in this cursor pack (so called pixel ladders).
 
 At first I made these cursors 24-bit, but I noticed that in some apps (Microsoft Edge, Krita, CS2) in some occasions cursor suddenly stops inverting colors behind it and becomes all-white, with even black borders dissapearing. Maybe it's some videodrivers issue specific to my computer. But I found out that it doesn't happen if cursor is set to 1-bit mode (black and white) — cursor will still flicker in such situations, but it keeps showing black borders and remains clearly visible. 
