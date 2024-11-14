@@ -17,6 +17,30 @@ All cursors invert colors behind them, e.g. they become white on dark background
 ## Showcase
 <img src="./screenshots/all_cursors_no_title.png" />
 
+<details>
+<summary>List of all cursors</summary>
+
+| Name                       | Image                                                           | Name                       | Image                                                           |
+|----------------------------|-----------------------------------------------------------------|----------------------------|-----------------------------------------------------------------|
+| arrow_tail_detached        | <img src="screenshots/cursors/arrow_tail_detached.png" height=50 /> | beam_v2                    | <img src="screenshots/cursors/beam_v2.png" height=50 />       |
+| arrow                      | <img src="screenshots/cursors/arrow.png" height=50 />         | beam                       | <img src="screenshots/cursors/beam.png" height=50 />         |
+| busy                       | <img src="screenshots/cursors/busy.png" height=50 />          | cross                      | <img src="screenshots/cursors/cross.png" height=50 />        |
+| diagonal_1                 | <img src="screenshots/cursors/diagonal_1.png" height=50 />    | diagonal_2                 | <img src="screenshots/cursors/diagonal_2.png" height=50 />   |
+| help_no_tail               | <img src="screenshots/cursors/help_no_tail.png" height=50 />  | help_tail_detached         | <img src="screenshots/cursors/help_tail_detached.png" height=50 /> |
+| help                       | <img src="screenshots/cursors/help.png" height=50 />          | horizontal_line            | <img src="screenshots/cursors/horizontal_line.png" height=50 /> |
+| horizontal                 | <img src="screenshots/cursors/horizontal.png" height=50 />    | link_v2                    | <img src="screenshots/cursors/link_v2.png" height=50 />      |
+| link                       | <img src="screenshots/cursors/link.png" height=50 />          | move_alt                   | <img src="screenshots/cursors/move_alt.png" height=50 />     |
+| move                       | <img src="screenshots/cursors/move.png" height=50 />          | pen                        | <img src="screenshots/cursors/pen.png" height=50 />          |
+| special                    | <img src="screenshots/cursors/special.png" height=50 />       | unavailable_v2             | <img src="screenshots/cursors/unavailable_v2.png" height=50 /> |
+| unavailable_v3             | <img src="screenshots/cursors/unavailable_v3.png" height=50 />| unavailable                | <img src="screenshots/cursors/unavailable.png" height=50 />  |
+| vertical_line              | <img src="screenshots/cursors/vertical_line.png" height=50 /> | vertical                   | <img src="screenshots/cursors/vertical.png" height=50 />     |
+| working_no_tail            | <img src="screenshots/cursors/working_no_tail.png" height=50 /> | working_tail_detached_v2   | <img src="screenshots/cursors/working_tail_detached_v2.png" height=50 /> |
+| working_tail_detached      | <img src="screenshots/cursors/working_tail_detached.png" height=50 /> | working                    | <img src="screenshots/cursors/working.png" height=50 />      |
+
+
+</details>
+
+
 ## How to install: 
 1. Click green button "Code" > "Download ZIP"
 2. Extract downloaded .zip archive to any folder
