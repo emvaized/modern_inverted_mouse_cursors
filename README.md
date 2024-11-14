@@ -22,20 +22,20 @@ All cursors invert colors behind them, e.g. they become white on dark background
 
 | Name                       | Image                                                           | Name                       | Image                                                           |
 |----------------------------|-----------------------------------------------------------------|----------------------------|-----------------------------------------------------------------|
-| arrow_tail_detached        | <img src="screenshots/cursors/arrow_tail_detached.png" height=50 /> | beam_v2                    | <img src="screenshots/cursors/beam_v2.png" height=50 />       |
-| arrow                      | <img src="screenshots/cursors/arrow.png" height=50 />         | beam                       | <img src="screenshots/cursors/beam.png" height=50 />         |
-| busy                       | <img src="screenshots/cursors/busy.gif" height=50 />          | cross                      | <img src="screenshots/cursors/cross.png" height=50 />        |
-| diagonal_1                 | <img src="screenshots/cursors/diagonal_1.png" height=50 />    | diagonal_2                 | <img src="screenshots/cursors/diagonal_2.png" height=50 />   |
-| help_no_tail               | <img src="screenshots/cursors/help_no_tail.png" height=50 />  | help_tail_detached         | <img src="screenshots/cursors/help_tail_detached.png" height=50 /> |
-| help                       | <img src="screenshots/cursors/help.png" height=50 />          | horizontal_line            | <img src="screenshots/cursors/horizontal_line.png" height=50 /> |
-| horizontal                 | <img src="screenshots/cursors/horizontal.png" height=50 />    | link_v2                    | <img src="screenshots/cursors/link_v2.png" height=50 />      |
-| link                       | <img src="screenshots/cursors/link.png" height=50 />          | move_alt                   | <img src="screenshots/cursors/move_alt.png" height=50 />     |
-| move                       | <img src="screenshots/cursors/move.png" height=50 />          | pen                        | <img src="screenshots/cursors/pen.png" height=50 />          |
-| special                    | <img src="screenshots/cursors/special.png" height=50 />       | unavailable_v2             | <img src="screenshots/cursors/unavailable_v2.png" height=50 /> |
-| unavailable_v3             | <img src="screenshots/cursors/unavailable_v3.png" height=50 />| unavailable                | <img src="screenshots/cursors/unavailable.png" height=50 />  |
-| vertical_line              | <img src="screenshots/cursors/vertical_line.png" height=50 /> | vertical                   | <img src="screenshots/cursors/vertical.png" height=50 />     |
-| working_no_tail            | <img src="screenshots/cursors/working_no_tail.gif" height=50 /> | working_tail_detached_v2   | <img src="screenshots/cursors/working_tail_detached_v2.gif" height=50 /> |
-| working_tail_detached      | <img src="screenshots/cursors/working_tail_detached.gif" height=50 /> | working                    | <img src="screenshots/cursors/working.gif" height=50 />      |
+| arrow_tail_detached        | <img src="screenshots/cursors_single/arrow_tail_detached.png" height=50 /> | beam_v2                    | <img src="screenshots/cursors_single/beam_v2.png" height=50 />       |
+| arrow                      | <img src="screenshots/cursors_single/arrow.png" height=50 />         | beam                       | <img src="screenshots/cursors_single/beam.png" height=50 />         |
+| busy                       | <img src="screenshots/cursors_single/busy.gif" height=50 />          | cross                      | <img src="screenshots/cursors_single/cross.png" height=50 />        |
+| diagonal_1                 | <img src="screenshots/cursors_single/diagonal_1.png" height=50 />    | diagonal_2                 | <img src="screenshots/cursors_single/diagonal_2.png" height=50 />   |
+| help_no_tail               | <img src="screenshots/cursors_single/help_no_tail.png" height=50 />  | help_tail_detached         | <img src="screenshots/cursors_single/help_tail_detached.png" height=50 /> |
+| help                       | <img src="screenshots/cursors_single/help.png" height=50 />          | horizontal_line            | <img src="screenshots/cursors_single/horizontal_line.png" height=50 /> |
+| horizontal                 | <img src="screenshots/cursors_single/horizontal.png" height=50 />    | link_v2                    | <img src="screenshots/cursors_single/link_v2.png" height=50 />      |
+| link                       | <img src="screenshots/cursors_single/link.png" height=50 />          | move_alt                   | <img src="screenshots/cursors_single/move_alt.png" height=50 />     |
+| move                       | <img src="screenshots/cursors_single/move.png" height=50 />          | pen                        | <img src="screenshots/cursors_single/pen.png" height=50 />          |
+| special                    | <img src="screenshots/cursors_single/special.png" height=50 />       | unavailable_v2             | <img src="screenshots/cursors_single/unavailable_v2.png" height=50 /> |
+| unavailable_v3             | <img src="screenshots/cursors_single/unavailable_v3.png" height=50 />| unavailable                | <img src="screenshots/cursors_single/unavailable.png" height=50 />  |
+| vertical_line              | <img src="screenshots/cursors_single/vertical_line.png" height=50 /> | vertical                   | <img src="screenshots/cursors_single/vertical.png" height=50 />     |
+| working_no_tail            | <img src="screenshots/cursors_single/working_no_tail.gif" height=50 /> | working_tail_detached_v2   | <img src="screenshots/cursors_single/working_tail_detached_v2.gif" height=50 /> |
+| working_tail_detached      | <img src="screenshots/cursors_single/working_tail_detached.gif" height=50 /> | working                    | <img src="screenshots/cursors_single/working.gif" height=50 />      |
 
 
 </details>
