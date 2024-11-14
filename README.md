@@ -34,8 +34,8 @@ All cursors invert colors behind them, e.g. they become white on dark background
 | special                    | <img src="screenshots/cursors/special.png" height=50 />       | unavailable_v2             | <img src="screenshots/cursors/unavailable_v2.png" height=50 /> |
 | unavailable_v3             | <img src="screenshots/cursors/unavailable_v3.png" height=50 />| unavailable                | <img src="screenshots/cursors/unavailable.png" height=50 />  |
 | vertical_line              | <img src="screenshots/cursors/vertical_line.png" height=50 /> | vertical                   | <img src="screenshots/cursors/vertical.png" height=50 />     |
-| working_no_tail            | <img src="screenshots/cursors/working_no_tail.png" height=50 /> | working_tail_detached_v2   | <img src="screenshots/cursors/working_tail_detached_v2.png" height=50 /> |
-| working_tail_detached      | <img src="screenshots/cursors/working_tail_detached.png" height=50 /> | working                    | <img src="screenshots/cursors/working.png" height=50 />      |
+| working_no_tail            | <img src="screenshots/cursors/working_no_tail.gif" height=50 /> | working_tail_detached_v2   | <img src="screenshots/cursors/working_tail_detached_v2.gif" height=50 /> |
+| working_tail_detached      | <img src="screenshots/cursors/working_tail_detached.gif" height=50 /> | working                    | <img src="screenshots/cursors/working.gif" height=50 />      |
 
 
 </details>
