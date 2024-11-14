@@ -24,7 +24,7 @@ All cursors invert colors behind them, e.g. they become white on dark background
 |----------------------------|-----------------------------------------------------------------|----------------------------|-----------------------------------------------------------------|
 | arrow_tail_detached        | <img src="screenshots/cursors/arrow_tail_detached.png" height=50 /> | beam_v2                    | <img src="screenshots/cursors/beam_v2.png" height=50 />       |
 | arrow                      | <img src="screenshots/cursors/arrow.png" height=50 />         | beam                       | <img src="screenshots/cursors/beam.png" height=50 />         |
-| busy                       | <img src="screenshots/cursors/busy.png" height=50 />          | cross                      | <img src="screenshots/cursors/cross.png" height=50 />        |
+| busy                       | <img src="screenshots/cursors/busy.gif" height=50 />          | cross                      | <img src="screenshots/cursors/cross.png" height=50 />        |
 | diagonal_1                 | <img src="screenshots/cursors/diagonal_1.png" height=50 />    | diagonal_2                 | <img src="screenshots/cursors/diagonal_2.png" height=50 />   |
 | help_no_tail               | <img src="screenshots/cursors/help_no_tail.png" height=50 />  | help_tail_detached         | <img src="screenshots/cursors/help_tail_detached.png" height=50 /> |
 | help                       | <img src="screenshots/cursors/help.png" height=50 />          | horizontal_line            | <img src="screenshots/cursors/horizontal_line.png" height=50 /> |
