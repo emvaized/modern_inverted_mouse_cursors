@@ -20,7 +20,7 @@ All cursors invert colors behind them, e.g. they become white on dark background
 <!-- <details> -->
 <!-- <summary>List of all cursors</summary> -->
 
-| Name                       | Image                                                           | Name                       | Image                                                           |
+| Cursor name                       | Image                                                           | Cursor name                       | Image                                                           |
 |----------------------------|-----------------------------------------------------------------|----------------------------|-----------------------------------------------------------------|
 | arrow_tail_detached        | <img src="screenshots/cursors_single/arrow_tail_detached.png" height=50 /> | beam_v2                    | <img src="screenshots/cursors_single/beam_v2.png" height=50 />       |
 | arrow                      | <img src="screenshots/cursors_single/arrow.png" height=50 />         | beam                       | <img src="screenshots/cursors_single/beam.png" height=50 />         |
