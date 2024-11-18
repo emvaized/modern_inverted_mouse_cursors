@@ -22,25 +22,27 @@ All cursors invert colors behind them, e.g. they become white on dark background
 
 <!-- <details> -->
 <!-- <summary>List of all cursors</summary> -->
+### Main cursors
 
+|                             | Regular                                                        | No tail                                                      | Tail detached                                              |
+|-----------------------------|----------------------------------------------------------------|---------------------------------------------------------------|-------------------------------------------------------------|
+| `arrow`                     | <img src="screenshots/cursors_single/arrow.png" height=50 />  | <img src="screenshots/cursors_single/arrow_no_tail.png" height=50 />  | <img src="screenshots/cursors_single/arrow_tail_detached.png" height=50 />  |
+| `working`                   | <img src="screenshots/cursors_single/working.gif" height=50 /> | <img src="screenshots/cursors_single/working_no_tail.gif" height=50 /> | <img src="screenshots/cursors_single/working_tail_detached_v2.gif" height=50 /> |
+| `help`                      | <img src="screenshots/cursors_single/help.png" height=50 />   | <img src="screenshots/cursors_single/help_no_tail.png" height=50 />   | <img src="screenshots/cursors_single/help_tail_detached.png" height=50 />   |
+
+
+### Other cursors
 | Cursor name                       | Image                                                           | Cursor name                       | Image                                                           |
 |----------------------------|-----------------------------------------------------------------|----------------------------|-----------------------------------------------------------------|
-| arrow        | <img src="screenshots/cursors_single/arrow.png" height=50 /> | arrow_no_tail       | <img src="screenshots/cursors_single/arrow_no_tail.png" height=50 /> |
-| arrow_tail_detached                      | <img src="screenshots/cursors_single/arrow_tail_detached.png" height=50 />         | beam                    | <img src="screenshots/cursors_single/beam.png" height=50 />       |
-| busy                       | <img src="screenshots/cursors_single/busy.gif" height=50 />          | beam_v2                      | <img src="screenshots/cursors_single/beam_v2.png" height=50 />         |
-| cross                      | <img src="screenshots/cursors_single/cross.png" height=50 />         | diagonal_1                 | <img src="screenshots/cursors_single/diagonal_1.png" height=50 />    |
-| diagonal_2                 | <img src="screenshots/cursors_single/diagonal_2.png" height=50 />   | help               | <img src="screenshots/cursors_single/help.png" height=50 />  |
-| help_no_tail         | <img src="screenshots/cursors_single/help_no_tail.png" height=50 /> | help_tail_detached                       | <img src="screenshots/cursors_single/help_tail_detached.png" height=50 />          |
-| horizontal            | <img src="screenshots/cursors_single/horizontal.png" height=50 /> | horizontal_line                 | <img src="screenshots/cursors_single/horizontal_line.png" height=50 />    |
-| link                    | <img src="screenshots/cursors_single/link.png" height=50 />      | link_v2                       | <img src="screenshots/cursors_single/link_v2.png" height=50 />          |
-| move                   | <img src="screenshots/cursors_single/move.png" height=50 />     | move_alt                       | <img src="screenshots/cursors_single/move_alt.png" height=50 />          |
-| pen                        | <img src="screenshots/cursors_single/pen.png" height=50 />          | special                    | <img src="screenshots/cursors_single/special.png" height=50 />       |
-| unavailable             | <img src="screenshots/cursors_single/unavailable.png" height=50 /> | unavailable_v2             | <img src="screenshots/cursors_single/unavailable_v2.png" height=50 />|
-| unavailable_v3                | <img src="screenshots/cursors_single/unavailable_v3.png" height=50 />  | vertical              | <img src="screenshots/cursors_single/vertical.png" height=50 /> |
-| vertical_line                   | <img src="screenshots/cursors_single/vertical_line.png" height=50 />     | working            | <img src="screenshots/cursors_single/working.gif" height=50 /> |
-| working_no_tail   | <img src="screenshots/cursors_single/working_no_tail.gif" height=50 /> | working_tail_detached      | <img src="screenshots/cursors_single/working_tail_detached.gif" height=50 /> |
-| working_tail_detached_v2                    | <img src="screenshots/cursors_single/working_tail_detached_v2.gif" height=50 />      |
-
+ `beam`                    | <img src="screenshots/cursors_single/beam.png" height=50 />       | `busy`                       | <img src="screenshots/cursors_single/busy.gif" height=50 />          | `beam_v2`                      | <img src="screenshots/cursors_single/beam_v2.png" height=50 />         |
+| `cross`                      | <img src="screenshots/cursors_single/cross.png" height=50 />         | `diagonal_1`                 | <img src="screenshots/cursors_single/diagonal_1.png" height=50 />    |
+| `diagonal_2`                 | <img src="screenshots/cursors_single/diagonal_2.png" height=50 /> | `horizontal`            | <img src="screenshots/cursors_single/horizontal.png" height=50 /> | `horizontal_line`                 | <img src="screenshots/cursors_single/horizontal_line.png" height=50 />    |
+| `link`                    | <img src="screenshots/cursors_single/link.png" height=50 />      | `link_v2`                       | <img src="screenshots/cursors_single/link_v2.png" height=50 />          |
+| `move`                   | <img src="screenshots/cursors_single/move.png" height=50 />     | `move_alt`                       | <img src="screenshots/cursors_single/move_alt.png" height=50 />          |
+| `pen`                        | <img src="screenshots/cursors_single/pen.png" height=50 />          | `special`                    | <img src="screenshots/cursors_single/special.png" height=50 />       |
+| `unavailable`             | <img src="screenshots/cursors_single/unavailable.png" height=50 /> | `unavailable_v2`             | <img src="screenshots/cursors_single/unavailable_v2.png" height=50 />|
+| `unavailable_v3`                | <img src="screenshots/cursors_single/unavailable_v3.png" height=50 />  | `vertical`              | <img src="screenshots/cursors_single/vertical.png" height=50 /> |
+| `vertical_line`                   | <img src="screenshots/cursors_single/vertical_line.png" height=50 /> | `working_tail_detached`              | <img src="screenshots/cursors_single/working_tail_detached.gif" height=50 />   
 
 
 <!-- </details> -->
@@ -48,7 +50,7 @@ All cursors invert colors behind them, e.g. they become white on dark background
 ## Support ❤️
 If you really enjoy this project, please consider supporting its further development by making a small donation using one of the ways below! 
 
-<a href="https://ko-fi.com/emvaized"><img src="https://storage.ko-fi.com/cdn/kofi1.png?v=6" alt="Support on Ko-fi" height="40"></a> &nbsp; <a href="https://liberapay.com/emvaized/donate"><img alt="Donate using Liberapay" src="https://liberapay.com/assets/widgets/donate.svg" height="40"></a> &nbsp; <a href="https://emvaized.github.io/donate/bitcoin/"><img src="https://github.com/emvaized/emvaized.github.io/blob/main/donate/bitcoin/assets/bitcoin-donate-button.png?raw=true" alt="Donate Bitcoin" height="40" /></a>
+<a href="https://ko-fi.com/emvaized"><img src="https://storage.ko-fi.com/cdn/kofi5.png" alt="Support on Ko-fi" height="40"></a> &nbsp; <a href="https://liberapay.com/emvaized/donate"><img alt="Donate using Liberapay" src="https://liberapay.com/assets/widgets/donate.svg" height="40"></a> &nbsp; <a href="https://emvaized.github.io/donate/bitcoin/"><img src="https://github.com/emvaized/emvaized.github.io/blob/main/donate/bitcoin/assets/bitcoin-donate-button.png?raw=true" alt="Donate Bitcoin" height="40" /></a>
 
 ## How to install: 
 1. Download the [latest release](https://github.com/emvaized/modern_inverted_mouse_cursors/releases)
