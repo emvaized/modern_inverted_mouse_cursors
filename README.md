@@ -2,6 +2,7 @@
 
 [![GitHub Release](https://img.shields.io/github/v/release/emvaized/modern_inverted_mouse_cursors?&label=latest+release)](https://github.com/emvaized/modern_inverted_mouse_cursors/releases)
 [![GitHub Downloads (specific asset, all releases)](https://img.shields.io/github/downloads/emvaized/modern_inverted_mouse_cursors/total?label=downloads&logo=github)](https://github.com/emvaized/modern_inverted_mouse_cursors/releases)
+[![Support project](https://shields.io/badge/Ko--fi-Support_project-ff5f5f?logo=Ko-Fi&style=for-the-badgeKo-fi)](https://ko-fi.com/emvaized)
 [![DeviantArt Views](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fbackend.deviantart.com%2Foembed%3Furl%3Dhttps%3A%2F%2Fwww.deviantart.com%2Femvaized%2Fart%2FModern-Inverted-Mouse-Cursors-for-Windows-10-11-1016675934&query=%24.community.statistics._attributes.views&logo=DeviantArt&logoColor=00e59b&label=views&labelColor=black&color=grey)](https://www.deviantart.com/emvaized/art/Modern-Inverted-Mouse-Cursors-for-Windows-10-11-1016675934)
 [![DeviantArt Downloads](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fbackend.deviantart.com%2Foembed%3Furl%3Dhttps%3A%2F%2Fwww.deviantart.com%2Femvaized%2Fart%2FModern-Inverted-Mouse-Cursors-for-Windows-10-11-1016675934&query=%24.community.statistics._attributes.downloads&label=downloads&logo=DeviantArt&logoColor=00e59b&labelColor=black&color=grey)](https://www.deviantart.com/emvaized/art/Modern-Inverted-Mouse-Cursors-for-Windows-10-11-1016675934)
 <!-- [![DeviantArt](https://img.shields.io/badge/DeviantArt-grey?logo=deviantart&logoColor=green&labelColor=black)](https://www.deviantart.com/emvaized/art/Modern-Inverted-Mouse-Cursors-for-Windows-10-11-1016675934) -->
@@ -12,7 +13,9 @@ Design is mostly inspired by standard Aero mouse cursor in Windows 10/11, but fe
 
 All cursors invert colors behind them, e.g. they become white on dark background, and black on light background: &nbsp;
 
-<img src="./screenshots/illustration_of_inversion.gif" align="top"/>
+<!-- <img src="./screenshots/illustration_of_inversion.gif" /> -->
+| ![illustration of inversion](./screenshots/illustration_of_inversion.gif) |
+|-|
 
 ## Showcase
 <!-- <img src="./screenshots/all_cursors_no_title.png" /> -->
