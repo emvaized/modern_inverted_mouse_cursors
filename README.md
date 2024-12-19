@@ -23,7 +23,7 @@ All cursors invert colors behind them, e.g. they become white on dark background
 
 <!-- <details> -->
 <!-- <summary>List of all cursors</summary> -->
-### Main cursors
+### Main cursor themes
 
 |                             | Regular                                                        | No tail                                                      | Tail detached                                              |
 |-----------------------------|----------------------------------------------------------------|---------------------------------------------------------------|-------------------------------------------------------------|
