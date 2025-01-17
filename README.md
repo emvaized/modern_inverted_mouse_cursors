@@ -9,6 +9,8 @@
 <!-- [![Support project](https://shields.io/badge/Ko--fi-Support_project-ff5f5f?logo=Ko-Fi&style=for-the-badgeKo-fi)](https://ko-fi.com/emvaized) -->
 <!-- [![DeviantArt](https://img.shields.io/badge/DeviantArt-grey?logo=deviantart&logoColor=green&labelColor=black)](https://www.deviantart.com/emvaized/art/Modern-Inverted-Mouse-Cursors-for-Windows-10-11-1016675934) -->
 
+### ❤️ Support this project by downloading from [Patreon](https://www.patreon.com/emvaized/shop/modern-inverted-mouse-cursors-for-10-11-924356)
+
 This project aims to recreate standard inverted mouse cursors with a more modern design. This cursor inverts the colors behind it, and this way it always stands out no matter the background. Although this feature was initially designed for people with vision problems, regular people could greatly benefit from it as well. Original inverted mouse cursors, available in Windows out the box, hasn't been updated for decades and look quite outdated as for now. This project intends to fix it by providing overhauled inverted mouse cursors. 
 
 Design is mostly inspired by standard Aero mouse cursor in Windows 10/11, but few design changes were made to improve visibility specifically for inverted cursors.
