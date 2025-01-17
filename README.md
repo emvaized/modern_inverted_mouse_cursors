@@ -1,7 +1,7 @@
 <img alt="Modern Inverted Mouse Cursors for Windows" src="./screenshots/title.png" />
 
 [![GitHub Release](https://img.shields.io/github/v/release/emvaized/modern_inverted_mouse_cursors?&label=latest+release)](https://github.com/emvaized/modern_inverted_mouse_cursors/releases)
-[![GitHub Downloads (specific asset, all releases)](https://img.shields.io/github/downloads/emvaized/modern_inverted_mouse_cursors/total?label=downloads&logo=github)](https://github.com/emvaized/modern_inverted_mouse_cursors/releases)
+![GitHub Downloads (specific asset, all releases)](https://img.shields.io/github/downloads/emvaized/modern_inverted_mouse_cursors/total?label=downloads&logo=github)
 [![DeviantArt Views](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fbackend.deviantart.com%2Foembed%3Furl%3Dhttps%3A%2F%2Fwww.deviantart.com%2Femvaized%2Fart%2FModern-Inverted-Mouse-Cursors-for-Windows-10-11-1016675934&query=%24.community.statistics._attributes.views&logo=DeviantArt&logoColor=00e59b&label=views&labelColor=black&color=grey)](https://www.deviantart.com/emvaized/art/Modern-Inverted-Mouse-Cursors-for-Windows-10-11-1016675934)
 <!-- [![GitHub Downloads (specific asset, all releases)](https://img.shields.io/github/downloads/emvaized/modern_inverted_mouse_cursors/total?label=total+downloads&logo=github)](https://github.com/emvaized/modern_inverted_mouse_cursors/releases)
 [![GitHub Downloads (all assets, latest release)](https://img.shields.io/github/downloads/emvaized/modern_inverted_mouse_cursors/latest/total?logo=github&label=downloads+(latest))](https://github.com/emvaized/modern_inverted_mouse_cursors/releases/latest) -->
