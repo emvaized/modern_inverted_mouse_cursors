@@ -51,13 +51,8 @@ All cursors invert colors behind them, e.g. they become white on dark background
 
 <!-- </details> -->
 
-## Support ❤️
-If you really enjoy this project, please consider supporting its further development by making a small donation using one of the ways below! 
-
-<a href="https://ko-fi.com/emvaized"><img src="https://storage.ko-fi.com/cdn/kofi5.png" alt="Support on Ko-fi" height="40"></a> &nbsp; <a href="https://liberapay.com/emvaized/donate"><img alt="Donate using Liberapay" src="https://liberapay.com/assets/widgets/donate.svg" height="40"></a> &nbsp; <a href="https://emvaized.github.io/donate/bitcoin/"><img src="https://github.com/emvaized/emvaized.github.io/blob/main/donate/bitcoin/assets/bitcoin-donate-button.png?raw=true" alt="Donate Bitcoin" height="40" /></a>
-
 ## How to install: 
-1. Download the [latest release](https://github.com/emvaized/modern_inverted_mouse_cursors/releases)
+1. Download the [latest release](https://www.patreon.com/emvaized/shop/modern-inverted-mouse-cursors-for-10-11-924356)
 2. Extract downloaded .zip archive to any folder
 3. Locate `cursors/Install.inf` file for "regular" or "no tail" style, right click on that `.inf` file and select "Install"
 3. Open Control Panel and navigate to "Mouse Properties" > "Pointers"
@@ -73,3 +68,8 @@ Color inversion feature is not supported on regular 32-bit cursors. This also le
 At first I made these cursors 24-bit, but I noticed that in some apps (Microsoft Edge, Krita, CS2) in some occasions cursor suddenly stops inverting colors behind it and becomes all-white, with even black borders dissapearing. Maybe it's some videodrivers issue specific to my computer. But I found out that it doesn't happen if cursor is set to 1-bit mode (black and white) — cursor will still flicker in such situations, but it keeps showing black borders and remains clearly visible. 
 
 Therefore I converted most of cursors in this pack to 1-bit color depth. As an upside, their size is greatly smaller than regular version (2.19kbs per cursor compared to 22.9kbs), while they look and feel pretty much the same. Also, default inverted cursors in Windows are also 1-bit, so it's probably the right way to do it. 
+
+## Support ❤️
+If you really enjoy this project, please consider supporting its further development by making a small donation using one of the ways below! 
+
+<a href="https://ko-fi.com/emvaized"><img src="https://storage.ko-fi.com/cdn/kofi5.png" alt="Support on Ko-fi" height="40"></a> &nbsp; <a href="https://liberapay.com/emvaized/donate"><img alt="Donate using Liberapay" src="https://liberapay.com/assets/widgets/donate.svg" height="40"></a> &nbsp; <a href="https://emvaized.github.io/donate/bitcoin/"><img src="https://github.com/emvaized/emvaized.github.io/blob/main/donate/bitcoin/assets/bitcoin-donate-button.png?raw=true" alt="Donate Bitcoin" height="40" /></a>
