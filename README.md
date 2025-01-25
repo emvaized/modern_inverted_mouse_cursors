@@ -59,15 +59,22 @@ All cursors invert colors behind them, e.g. they become white on dark background
 4. Select the style you installed and click "Apply"
 5. (optional) Double click any cursor type and select any other desired cursor from the extracted folder, if you want alternative version
 
+## How to change specific cursors? 
+
+In the same window (Control panel > Mouse Properties > Pointers) double click any type of the cursor, and then you can select the alternative version from the folder to which you have previously extracted the .zip archive. Some cursors have alternative design versions which you may prefer more!
+
 ## How to modify cursors? 
 All cursors were created using [Realworld Cursor Editor](http://www.rw-designer.com/cursor-maker) — you can use this free tool to modify them for your needs! In order to draw an inverted cursor, you have to set your brush to use fully transparent white color (`00FFFFFF`), along with cursor's color depth set to anything other than the default 32-bit color depth.
 
-## About the cursors color depth (1-bit)
-Color inversion feature is not supported on regular 32-bit cursors. This also leads to semitransparency not being available — all pixels in inverted cursors can only be either fully opaque, transparent or inverted. That's why you may notice some chopiness on curves in this cursor pack (so called pixel ladders).
+<details>
+<summary>Click to read more about the used color depth (1-bit)</summary>
 
-At first I made these cursors 24-bit, but I noticed that in some apps (Microsoft Edge, Krita, CS2) in some occasions cursor suddenly stops inverting colors behind it and becomes all-white, with even black borders dissapearing. Maybe it's some videodrivers issue specific to my computer. But I found out that it doesn't happen if cursor is set to 1-bit mode (black and white) — cursor will still flicker in such situations, but it keeps showing black borders and remains clearly visible. 
+Color inversion feature is not supported for regular 32-bit cursors (the ones most people use), it is possible only in 1-, 4-, 8- and 24-bit cursors. But this also leads to semitransparency not being available for us — all pixels in inverted cursors can then only be either fully opaque, transparent or inverted. That's why you may notice some chopiness on curves in this cursor pack (so called pixel ladders), especially when we need to show some circle shape.
 
-Therefore I converted most of cursors in this pack to 1-bit color depth. As an upside, their size is greatly smaller than regular version (2.19kbs per cursor compared to 22.9kbs), while they look and feel pretty much the same. Also, default inverted cursors in Windows are also 1-bit, so it's probably the right way to do it. 
+At first I made these cursors 24-bit, but I noticed that in some apps (Microsoft Edge, Krita, CS2) in some occasions cursor suddenly stops inverting colors behind it and becomes all-white, with even black borders dissapearing. Maybe it's some videodrivers issue specific to my computer. But I found out that it doesn't happen if cursor is set to 1-bit mode (black and white) — cursor may still flicker in such situations, but it keeps showing black borders and remains clearly visible. 
+
+Therefore I converted most of cursors in this pack to 1-bit color depth, and as an upside, their size is greatly smaller than regular version (2.19kbs per cursor compared to 22.9kbs), while they look and feel pretty much the same. Also, default inverted cursors in Windows are also 1-bit, so it's probably the best way to do it. However, in the future if we decide to add some colorful elements to cursors, and no longer stick to the current black'n'white design, it may be needed to increase the color depth.
+</details>
 
 ## Support ❤️
 If you really enjoy this project, please consider supporting its further development by making a small donation using one of the ways below! 
