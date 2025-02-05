@@ -26,7 +26,7 @@ All cursors invert colors behind them, e.g. they become white on dark background
 
 <!-- <details> -->
 <!-- <summary>List of all cursors</summary> -->
-### Main cursor themes
+### Main cursor styles
 
 |                             | Regular                                                        | No tail                                                      | Tail detached                                              |
 |-----------------------------|----------------------------------------------------------------|---------------------------------------------------------------|-------------------------------------------------------------|
@@ -35,7 +35,7 @@ All cursors invert colors behind them, e.g. they become white on dark background
 | `help`                      | <img src="screenshots/cursors_single/help.png" height=50 />   | <img src="screenshots/cursors_single/help_no_tail.png" height=50 />   | <img src="screenshots/cursors_single/help_tail_detached.png" height=50 />   |
 
 
-### Other cursors
+### Other cursors and their variants
 | Cursor name                       | Image                                                           | Cursor name                       | Image                                                           |
 |----------------------------|-----------------------------------------------------------------|----------------------------|-----------------------------------------------------------------|
  `beam`                    | <img src="screenshots/cursors_single/beam.png" height=50 />       | `busy`                       | <img src="screenshots/cursors_single/busy.gif" height=50 />          | 
