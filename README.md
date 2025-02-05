@@ -31,7 +31,7 @@ All cursors invert colors behind them, e.g. they become white on dark background
 |                             | Regular                                                        | No tail                                                      | Tail detached                                              |
 |-----------------------------|----------------------------------------------------------------|---------------------------------------------------------------|-------------------------------------------------------------|
 | `arrow`                     | <img src="screenshots/cursors_single/arrow.png" height=50 />  | <img src="screenshots/cursors_single/arrow_no_tail.png" height=50 />  | <img src="screenshots/cursors_single/arrow_tail_detached.png" height=50 />  |
-| `working`                   | <img src="screenshots/cursors_single/working.gif" height=50 /> | <img src="screenshots/cursors_single/working_no_tail.gif" height=50 /> | <img src="screenshots/cursors_single/working_tail_detached_v2.gif" height=50 /> |
+| `working`                   | <img src="screenshots/cursors_single/working.gif" height=50 /> | <img src="screenshots/cursors_single/working_no_tail.gif" height=50 /> | <img src="screenshots/cursors_single/working_tail_detached.gif" height=50 /> / <img src="screenshots/cursors_single/working_tail_detached_v2.gif" height=50 /> |
 | `help`                      | <img src="screenshots/cursors_single/help.png" height=50 />   | <img src="screenshots/cursors_single/help_no_tail.png" height=50 />   | <img src="screenshots/cursors_single/help_tail_detached.png" height=50 />   |
 
 
