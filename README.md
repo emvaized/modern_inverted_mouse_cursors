@@ -38,8 +38,8 @@ All cursors invert colors behind them, e.g. they become white on dark background
 ### Other cursors and their variants
 | Cursor name                       | Image                                                           | Cursor name                       | Image                                                           |
 |----------------------------|-----------------------------------------------------------------|----------------------------|-----------------------------------------------------------------|
- `beam`                    | <img src="screenshots/cursors_single/beam.png" height=50 />       | `busy`                       | <img src="screenshots/cursors_single/busy.gif" height=50 />          | 
- `beam_v2`                      | <img src="screenshots/cursors_single/beam_v2.png" height=50 />         |  `cross`                      | <img src="screenshots/cursors_single/cross.png" height=50 />         |
+ `beam`                    | <img src="screenshots/cursors_single/beam.png" height=50 />       | `beam_v2`                       | <img src="screenshots/cursors_single/beam_v2.png" height=50 />          | 
+ `busy`                      | <img src="screenshots/cursors_single/busy.gif" height=50 />         |  `cross`                      | <img src="screenshots/cursors_single/cross.png" height=50 />         |
   `diagonal_1`                 | <img src="screenshots/cursors_single/diagonal_1.png" height=50 />    | `diagonal_2`                 | <img src="screenshots/cursors_single/diagonal_2.png" height=50 /> |
 `horizontal`            | <img src="screenshots/cursors_single/horizontal.png" height=50 /> | `horizontal_v2`                 | <img src="screenshots/cursors_single/horizontal_v2.png" height=50 />    |
 | `link`                    | <img src="screenshots/cursors_single/link.png" height=50 />      | `link_v2`                       | <img src="screenshots/cursors_single/link_v2.png" height=50 />          |
