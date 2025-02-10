@@ -1,3 +1,11 @@
+### 3.6.1
+- Removed the assymetric corner pixel in regular arrow cursors (`arrow`, `help` and `working`)
+- Fixed some visual inconsitencies in the `working_tail_detached` cursor
+- Renamed some cursors for better clarity: 
+    -- `vertical_line` to `vertical_v2`
+    -- `horizontal_line` to `horizontal_v2`
+    -- `move_alt` to `move_v2`
+
 ### 3.6.0
 
 Added new "tail detached" cursors (design proposed by **_aicraglednay**): 
