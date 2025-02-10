@@ -26,27 +26,28 @@ All cursors invert colors behind them, e.g. they become white on dark background
 
 <!-- <details> -->
 <!-- <summary>List of all cursors</summary> -->
-### Main cursor themes
+### Main cursor styles
 
 |                             | Regular                                                        | No tail                                                      | Tail detached                                              |
 |-----------------------------|----------------------------------------------------------------|---------------------------------------------------------------|-------------------------------------------------------------|
 | `arrow`                     | <img src="screenshots/cursors_single/arrow.png" height=50 />  | <img src="screenshots/cursors_single/arrow_no_tail.png" height=50 />  | <img src="screenshots/cursors_single/arrow_tail_detached.png" height=50 />  |
-| `working`                   | <img src="screenshots/cursors_single/working.gif" height=50 /> | <img src="screenshots/cursors_single/working_no_tail.gif" height=50 /> | <img src="screenshots/cursors_single/working_tail_detached_v2.gif" height=50 /> |
+| `working`                   | <img src="screenshots/cursors_single/working.gif" height=50 /> | <img src="screenshots/cursors_single/working_no_tail.gif" height=50 /> | <img src="screenshots/cursors_single/working_tail_detached.gif" height=50 /> or <img src="screenshots/cursors_single/working_tail_detached_v2.gif" height=50 /> |
 | `help`                      | <img src="screenshots/cursors_single/help.png" height=50 />   | <img src="screenshots/cursors_single/help_no_tail.png" height=50 />   | <img src="screenshots/cursors_single/help_tail_detached.png" height=50 />   |
 
 
-### Other cursors
+### Other cursors and their variants
 | Cursor name                       | Image                                                           | Cursor name                       | Image                                                           |
 |----------------------------|-----------------------------------------------------------------|----------------------------|-----------------------------------------------------------------|
- `beam`                    | <img src="screenshots/cursors_single/beam.png" height=50 />       | `busy`                       | <img src="screenshots/cursors_single/busy.gif" height=50 />          | `beam_v2`                      | <img src="screenshots/cursors_single/beam_v2.png" height=50 />         |
-| `cross`                      | <img src="screenshots/cursors_single/cross.png" height=50 />         | `diagonal_1`                 | <img src="screenshots/cursors_single/diagonal_1.png" height=50 />    |
-| `diagonal_2`                 | <img src="screenshots/cursors_single/diagonal_2.png" height=50 /> | `horizontal`            | <img src="screenshots/cursors_single/horizontal.png" height=50 /> | `horizontal_line`                 | <img src="screenshots/cursors_single/horizontal_line.png" height=50 />    |
+ `beam`                    | <img src="screenshots/cursors_single/beam.png" height=50 />       | `beam_v2`                       | <img src="screenshots/cursors_single/beam_v2.png" height=50 />          | 
+ `busy`                      | <img src="screenshots/cursors_single/busy.gif" height=50 />         |  `cross`                      | <img src="screenshots/cursors_single/cross.png" height=50 />         |
+  `diagonal_1`                 | <img src="screenshots/cursors_single/diagonal_1.png" height=50 />    | `diagonal_2`                 | <img src="screenshots/cursors_single/diagonal_2.png" height=50 /> |
+`horizontal`            | <img src="screenshots/cursors_single/horizontal.png" height=50 /> | `horizontal_v2`                 | <img src="screenshots/cursors_single/horizontal_v2.png" height=50 />    |
 | `link`                    | <img src="screenshots/cursors_single/link.png" height=50 />      | `link_v2`                       | <img src="screenshots/cursors_single/link_v2.png" height=50 />          |
-| `move`                   | <img src="screenshots/cursors_single/move.png" height=50 />     | `move_alt`                       | <img src="screenshots/cursors_single/move_alt.png" height=50 />          |
+| `move`                   | <img src="screenshots/cursors_single/move.png" height=50 />     | `move_v2`                       | <img src="screenshots/cursors_single/move_v2.png" height=50 />          |
 | `pen`                        | <img src="screenshots/cursors_single/pen.png" height=50 />          | `special`                    | <img src="screenshots/cursors_single/special.png" height=50 />       |
 | `unavailable`             | <img src="screenshots/cursors_single/unavailable.png" height=50 /> | `unavailable_v2`             | <img src="screenshots/cursors_single/unavailable_v2.png" height=50 />|
 | `unavailable_v3`                | <img src="screenshots/cursors_single/unavailable_v3.png" height=50 />  | `vertical`              | <img src="screenshots/cursors_single/vertical.png" height=50 /> |
-| `vertical_line`                   | <img src="screenshots/cursors_single/vertical_line.png" height=50 /> | `working_tail_detached`              | <img src="screenshots/cursors_single/working_tail_detached.gif" height=50 />   
+| `vertical_v2`                   | <img src="screenshots/cursors_single/vertical_v2.png" height=50 /> | `working_tail_detached`              | <img src="screenshots/cursors_single/working_tail_detached.gif" height=50 />   
 
 
 <!-- </details> -->
@@ -59,15 +60,22 @@ All cursors invert colors behind them, e.g. they become white on dark background
 4. Select the style you installed and click "Apply"
 5. (optional) Double click any cursor type and select any other desired cursor from the extracted folder, if you want alternative version
 
+## How to change specific cursors? 
+
+In the same window (Control panel > Mouse Properties > Pointers) double click any type of the cursor, and then you can select the alternative version from the folder to which you have previously extracted the .zip archive. Some cursors have alternative design versions which you may prefer more!
+
 ## How to modify cursors? 
 All cursors were created using [Realworld Cursor Editor](http://www.rw-designer.com/cursor-maker) — you can use this free tool to modify them for your needs! In order to draw an inverted cursor, you have to set your brush to use fully transparent white color (`00FFFFFF`), along with cursor's color depth set to anything other than the default 32-bit color depth.
 
-## About the cursors color depth (1-bit)
-Color inversion feature is not supported on regular 32-bit cursors. This also leads to semitransparency not being available — all pixels in inverted cursors can only be either fully opaque, transparent or inverted. That's why you may notice some chopiness on curves in this cursor pack (so called pixel ladders).
+<details>
+<summary>Read more about the used color depth (1-bit)</summary>
 
-At first I made these cursors 24-bit, but I noticed that in some apps (Microsoft Edge, Krita, CS2) in some occasions cursor suddenly stops inverting colors behind it and becomes all-white, with even black borders dissapearing. Maybe it's some videodrivers issue specific to my computer. But I found out that it doesn't happen if cursor is set to 1-bit mode (black and white) — cursor will still flicker in such situations, but it keeps showing black borders and remains clearly visible. 
+Color inversion feature is not supported for regular 32-bit cursors (the ones most people use), it is possible only in 1-, 4-, 8- and 24-bit cursors. But this also leads to semitransparency not being available for us — all pixels in inverted cursors can then only be either fully opaque, transparent or inverted. That's why you may notice some chopiness on curves in this cursor pack (so called pixel ladders), especially when we need to show some circle shape.
 
-Therefore I converted most of cursors in this pack to 1-bit color depth. As an upside, their size is greatly smaller than regular version (2.19kbs per cursor compared to 22.9kbs), while they look and feel pretty much the same. Also, default inverted cursors in Windows are also 1-bit, so it's probably the right way to do it. 
+At first I made these cursors 24-bit, but I noticed that in some apps (Microsoft Edge, Krita, CS2) in some occasions cursor suddenly stops inverting colors behind it and becomes all-white, with even black borders dissapearing. Maybe it's some videodrivers issue specific to my computer. But I found out that it doesn't happen if cursor is set to 1-bit mode (black and white) — cursor may still flicker in such situations, but it keeps showing black borders and remains clearly visible. 
+
+Therefore I converted most of cursors in this pack to 1-bit color depth, and as an upside, their size is greatly smaller than regular version (2.19kbs per cursor compared to 22.9kbs), while they look and feel pretty much the same. Also, default inverted cursors in Windows are also 1-bit, so it's probably the best way to do it. However, in the future if we decide to add some colorful elements to cursors, and no longer stick to the current black'n'white design, it may be needed to increase the color depth.
+</details>
 
 ## Support ❤️
 If you really enjoy this project, please consider supporting its further development by making a small donation using one of the ways below! 
