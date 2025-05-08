@@ -70,7 +70,7 @@ In the same window (Control panel > Mouse Properties > Pointers) double click an
 All cursors were created using [Realworld Cursor Editor](http://www.rw-designer.com/cursor-maker) — you can use this free tool to modify them for your needs! In order to draw an inverted cursor, you have to set your brush to use fully transparent white color (`00FFFFFF`), along with cursor's color depth set to anything other than the default 32-bit color depth.
 
 <details>
-<summary>Read more about the used color depth (1-bit)</summary>
+<summary>Read more about the color depth (1-bit)</summary>
 
 Color inversion feature is not supported for regular 32-bit cursors (the ones most people use), it is possible only in 1-, 4-, 8- and 24-bit cursors. But this also leads to semitransparency not being available for us — all pixels in inverted cursors can then only be either fully opaque, transparent or inverted. That's why you may notice some chopiness on curves in this cursor pack (so called pixel ladders), especially when we need to show some circle shape.
 
