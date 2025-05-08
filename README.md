@@ -21,6 +21,8 @@ All cursors invert colors behind them, e.g. they become white on dark background
 | ![illustration of inversion](./screenshots/illustration_of_inversion.gif) |
 |-|
 
+With this cursor pack you will never lose your cursor on the screen again! Just your mouse it a little bit, and you will immediately notice the motion. 
+
 ## Showcase
 <!-- <img src="./screenshots/all_cursors_no_title.png" /> -->
 
