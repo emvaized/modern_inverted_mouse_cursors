@@ -1,3 +1,8 @@
+### 3.6.2
+- Added new `working_tail_detached_v3` cursor 
+<br> <img src="./screenshots/cursors_single/working_tail_detached_v3.gif">
+- Added `arrow_no_tail_smaller_v2` cursor, which is even smaller and compatible with `_detached` working cursors
+
 ### 3.6.1
 - Removed the assymetric corner pixel in regular arrow cursors (`arrow`, `help` and `working`)
 - Fixed some visual inconsitencies in the `working_tail_detached` cursor
