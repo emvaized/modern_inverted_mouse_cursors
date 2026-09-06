@@ -9,7 +9,7 @@
 <!-- [![Support project](https://shields.io/badge/Ko--fi-Support_project-ff5f5f?logo=Ko-Fi&style=for-the-badgeKo-fi)](https://ko-fi.com/emvaized) -->
 <!-- [![DeviantArt](https://img.shields.io/badge/DeviantArt-grey?logo=deviantart&logoColor=green&labelColor=black)](https://www.deviantart.com/emvaized/art/Modern-Inverted-Mouse-Cursors-for-Windows-10-11-1016675934) -->
 
-### ❤️ Support this project by downloading it from [Patreon](https://www.patreon.com/emvaized/shop/modern-inverted-mouse-cursors-for-10-11-924356)
+### ❤️ Support this project by downloading it from [Patreon](https://www.patreon.com/emvaized/posts/modern-inverted-168795915)
 
 This project aims to recreate standard inverted mouse cursors with a more modern design. This cursor inverts the colors behind it, and this way it always stands out no matter the background. Although this feature was originally designed for people with vision problems, others could greatly benefit from it as well! 
 
@@ -55,12 +55,12 @@ With this cursor pack you will never lose your cursor on the screen again! Just 
 <!-- </details> -->
 
 ## How to install: 
-1. Download the [latest release](https://www.patreon.com/emvaized/shop/modern-inverted-mouse-cursors-for-10-11-924356)
+1. Download the [latest release](https://www.patreon.com/emvaized/posts/modern-inverted-168795915)
 2. Extract downloaded .zip archive to any folder
 3. Locate `cursors/Install.inf` file for "regular" or "no tail" style, right click on that `.inf` file and select "Install"
 3. Open Control Panel and navigate to "Mouse Properties" > "Pointers"
 4. Select the style you installed and click "Apply"
-5. (optional) Double click any cursor type and select any other desired cursor from the extracted folder, if you want alternative version
+5. *(optional)* Double click any cursor type and select any other desired cursor from the extracted folder, if you want alternative version
 
 ## How to change specific cursors? 
 
